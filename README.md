@@ -99,12 +99,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-[![Deva's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)](https://github.com/YOUR_USERNAME)
-
----
-
 ## 🎯 2026 Goals
 
 ✅ Master Unity
@@ -120,12 +114,6 @@
 ✅ Secure a Fully Funded Scholarship
 
 ✅ Get an International Game Development Internship
-
----
-
-## 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
 ---
 
