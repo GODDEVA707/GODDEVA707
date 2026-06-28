@@ -20,7 +20,7 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/devakkumar-c-8586b2385/YOUR-LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
