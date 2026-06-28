@@ -38,7 +38,7 @@
 # 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cs,cpp,c,java"/>
+<img src="https://skillicons.dev/icons?i=python,cs,cpp,c"/>
 </p>
 
 ---
@@ -46,7 +46,7 @@
 # 🎮 Game Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=unity,blender"/>
+<img src="https://skillicons.dev/icons?i=unity,python"/>
 </p>
 
 ---
@@ -54,7 +54,7 @@
 # 🌐 Web Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript"/>
 </p>
 
 ---
@@ -62,7 +62,7 @@
 # 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,figma"/>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github"/>
 </p>
 
 ---
@@ -74,28 +74,6 @@
 - 💻 C#
 - 🐍 Python
 - 🚀 Game Design Patterns
-
----
-
-# 🏆 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🏅 Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=2&column=4"/>
-</p>
 
 ---
 
